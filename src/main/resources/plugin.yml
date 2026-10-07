@@ -1,0 +1,12 @@
+name: SimpleBack
+version: 1.0.0
+main: cn.xinyue_neko.plugin.simpleBack.Main
+description: 自杀与返回死亡点
+
+commands:
+  die:
+    description: 自杀
+    usage: /<command>
+  back:
+    description: 返回死亡点
+    usage: /<command>
